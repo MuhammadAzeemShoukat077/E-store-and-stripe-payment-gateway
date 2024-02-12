@@ -1,0 +1,21 @@
+.form_container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+}
+
+@media screen and (max-width: 768px) {
+    .form_container{
+        height: 65%;
+    }
+    
+}
+
+@media screen and (max-width: 1000px) {
+    .form_container {
+        height: 45%;
+    }
+
+}

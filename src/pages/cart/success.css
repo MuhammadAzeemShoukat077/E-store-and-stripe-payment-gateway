@@ -1,0 +1,10 @@
+.Success{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #faf8f8;
+    font: 400 16px Roboto, sans-serif;
+    padding: 60px;
+    margin:'auto';
+}
